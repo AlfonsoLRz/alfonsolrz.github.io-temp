@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-16'
 papers:
   S8Ac_N0AAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -22,7 +22,7 @@ papers:
     title: Classification of grapevine varieties using UAV hyperspectral imaging
     year: '2024'
   S8Ac_N0AAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: Change Detection in Point Clouds Using 3D Fractal Dimension
     year: '2024'
   S8Ac_N0AAAAJ:9yKSN-GCB0IC:
@@ -74,7 +74,7 @@ papers:
     title: GPU-based Mapping of Thermal Imagery for Generating 3D Occlusion-Aware Point Clouds
     year: '2022'
   S8Ac_N0AAAAJ:Y0pCki6q_DkC:
-    citations: 88
+    citations: 91
     title: 'Remote sensing image fusion on 3D scenarios: A review of applications for agriculture and forestry'
     year: '2022'
   S8Ac_N0AAAAJ:YOwf2qJgpHMC:
@@ -114,7 +114,7 @@ papers:
     title: Automated detection and tracking of photovoltaic modules from 3D remote sensing data
     year: '2024'
   S8Ac_N0AAAAJ:qjMakFHDy7sC:
-    citations: 39
+    citations: 40
     title: An optimized approach for generating dense thermal point clouds from UAV-imagery
     year: '2021'
   S8Ac_N0AAAAJ:qxL8FJ1GzNcC:
