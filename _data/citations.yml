@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-19'
 papers:
   S8Ac_N0AAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -42,7 +42,7 @@ papers:
     title: New tools for modelling sensor data
     year: '2023'
   S8Ac_N0AAAAJ:MXK_kJrjxJIC:
-    citations: 59
+    citations: 60
     title: 'Eye-tracking on virtual reality: a survey'
     year: '2024'
   S8Ac_N0AAAAJ:Se3iqnhoufwC:
@@ -74,7 +74,7 @@ papers:
     title: GPU-based Mapping of Thermal Imagery for Generating 3D Occlusion-Aware Point Clouds
     year: '2022'
   S8Ac_N0AAAAJ:Y0pCki6q_DkC:
-    citations: 91
+    citations: 92
     title: 'Remote sensing image fusion on 3D scenarios: A review of applications for agriculture and forestry'
     year: '2022'
   S8Ac_N0AAAAJ:YOwf2qJgpHMC:
@@ -126,7 +126,7 @@ papers:
     title: Reconstruction of tree branching structures from UAV-LiDAR data
     year: '2022'
   S8Ac_N0AAAAJ:u-x6o8ySG0sC:
-    citations: 57
+    citations: 58
     title: A framework for registering UAV-based imagery for crop-tracking in Precision Agriculture
     year: '2021'
   S8Ac_N0AAAAJ:u5HHmVD_uO8C:
